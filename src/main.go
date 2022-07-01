@@ -15,6 +15,9 @@ func returnfunc(x int) (double int, triple int, quad int) {
 	double = x * 2
 	triple = x * 3
 	quad = x * 4
+	quad = x * 4
+	quad = x * 4
+	quad = x * 4
 	return
 }
 func main() {
